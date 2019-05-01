@@ -7,7 +7,6 @@
 
 ## Features
 - Feature files
-- Test data files `.yml`
 - Screenshots on test case failure
 
 ## Get Started
